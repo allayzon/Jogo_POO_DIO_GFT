@@ -1,0 +1,16 @@
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\Jogo_POO.exe
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\Jogo_POO.deps.json
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\Jogo_POO.runtimeconfig.json
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\Jogo_POO.runtimeconfig.dev.json
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\Jogo_POO.dll
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\ref\Jogo_POO.dll
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\bin\Debug\net5.0\Jogo_POO.pdb
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.csproj.AssemblyReference.cache
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.AssemblyInfoInputs.cache
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.AssemblyInfo.cs
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.csproj.CoreCompileInputs.cache
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.dll
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\ref\Jogo_POO.dll
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.pdb
+D:\Allyson\Documentos\DIO\GFT_START_4\Jogo_POO\obj\Debug\net5.0\Jogo_POO.genruntimeconfig.cache
